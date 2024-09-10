@@ -1,0 +1,7 @@
+{
+  "dev": true,
+  "staging": false,
+  "production": false,
+  "title": "Maintenance in Progress",
+  "message": "System maintenance is underway. Apologies for the inconvenience."
+}
