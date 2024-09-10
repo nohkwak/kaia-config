@@ -1,5 +1,5 @@
 {
-  "development": true,
+  "development": false,
   "staging": false,
   "production": false,
   "title": "Maintenance in Progress",
