@@ -1,7 +1,7 @@
 {
   "development": true,
   "staging": true,
-  "production": false,
+  "production": true,
   "id": "24090902",
   "message": "Check out the new Kaia Portal mission guide at the link!",
   "link": {
