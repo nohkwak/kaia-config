@@ -2,10 +2,6 @@
   "development": true,
   "staging": true,
   "production": true,
-  "id": "24090902",
-  "message": "Check out the new Kaia Portal mission guide at the link!",
-  "link": {
-    "KR": "https://portal-docs.kaia.io/korean/kaia-portal",
-    "EN": "https://portal-docs.kaia.io"
-  }
+  "id": "24090903",
+  "message": "Due to an issue with a third-party API, portal points were incorrectly calculated in some pools between October 12th and 13th. Please note that your points may be adjusted once the third-party API is stabilized. We apologize for any inconvenience this may have caused."
 }
