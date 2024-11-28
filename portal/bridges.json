@@ -1,13 +1,12 @@
 {
-   "items":[
-      {
-         "name":"Stargate",
-         "url":"https://stargate.finance/bridge"
-      },
-      {
-         "name":"Wormhole",
-         "url":"https://portalbridge.com/"
-      }
-   ]
+  "items": [
+    {
+      "name": "Stargate",
+      "url": "https://stargate.finance/bridge?srcChain=ethereum&srcToken=0xdAC17F958D2ee523a2206206994597C13D831ec7&dstChain=klaytn&dstToken=0x9025095263d1E548dc890A7589A4C78038aC40ab"
+    },
+    {
+      "name": "Wormhole",
+      "url": "https://portalbridge.com/"
+    }
+  ]
 }
-
