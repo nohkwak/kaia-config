@@ -2,6 +2,10 @@
   "development": true,
   "staging": true,
   "production": true,
-  "id": "24101601",
-  "message": "Due to an issue with a third-party API, portal points were incorrectly calculated in some pools between October 12th and 13th. Please note that your points may be adjusted once the third-party API is stabilized. We apologize for any inconvenience this may have caused."
+  "id": "24121401",
+  "message": "Last Chance to Claim Your Rewards for FGP-23 Voting! FGP-23 voters can claim their KAIA until December 25 as it has nonticed in our Docs. If you have not yet claimed your rewards, please refer to FNSA > KAIA Swap guide and connect your wallet by 3:00 PM KST on December 20 to ensure you can claim your rewards by the deadline, December 25.",
+  "link": {
+    "KR": "https://portal-docs.kaia.io/korean/fnsa-greater-than-kaia#id-576f",
+    "EN": "https://portal-docs.kaia.io/english/fnsa-greater-than-kaia-swap#d61b"
+  }
 }
