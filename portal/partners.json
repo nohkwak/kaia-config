@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Avalon Labs",
+    "img": "",
+    "link": "https://app.avalonfinance.xyz/dashboard/?marketName=proto_kaia_v3"
+  },
+  {
+    "name": "CAPYBARA",
+    "img": "",
+    "link": "https://dex.capybara.exchange/en/pool"
+  },
+  {
+    "name": "DragonSwap",
+    "img": "",
+    "link": "https://dgswap.io/farms"
+  },
+  {
+    "name": "GOODGANG LABS",
+    "img": "",
+    "link": "https://goodganglabs.com/"
+  },
+  {
+    "name": "HAVAH",
+    "img": "",
+    "link": "https://www.havah.io/"
+  },
+  {
+    "name": "K-BIT",
+    "img": "",
+    "link": "https://app.k-bit.xyz/"
+  },
+  {
+    "name": "Lair",
+    "img": "",
+    "link": "https://app.lair.fi/"
+  },
+  {
+    "name": "SUPERWALK",
+    "img": "",
+    "link": "https://superwalk.io/"
+  }
+]
